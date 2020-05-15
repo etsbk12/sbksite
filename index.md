@@ -1,5 +1,10 @@
-Simböck IT Beratung
+---
+layout: main
+title: Simböck IT Beratung
+---
 
-Knowhow
-Erfahrung
-Lösungen
+## Simböck IT Beratung
+
+. Knowhow
+. Erfahrung
+. Lösungen

@@ -1,0 +1,57 @@
+.currentmenu {
+  color: green;
+}
+
+html {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    line-height: 1.2;
+}
+
+body {
+    margin: 1.1em;
+}
+
+h1 {
+    font-weight: 200;
+    line-height: 1.4em;
+}
+
+#outerdiv {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 0;
+    display: grid;
+    grid-template-areas:
+        "menupart"
+        "main"
+}
+
+p {
+    margin-top: 1.25em;
+    margin-bottom: 0.25em;
+}
+
+#menupart {
+    grid-area: menu;
+    display: inline-block;
+
+    h1 {
+        font-size: 2em;
+        margin-bottom: 1em;
+
+        a {
+            text-decoration: none;
+        }
+    }
+}
+
+
+#main {
+    grid-area: main;
+
+	h1 {
+	        font-weight: 40;
+	        line-height: 1.2em;
+	}
+}

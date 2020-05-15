@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+    <div id="outerdiv">
+        <div id="menupart">
+            {% include _menu.html %}
+        </div>
+        <div id="main">
+            {{ content }}
+        </div>
+    </div>
+</body>
