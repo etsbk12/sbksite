@@ -1,10 +1,10 @@
 ---
-layout: main
-title: Simböck IT Beratung
+layout: main 
+title: SimbÃ¶ck IT Beratung
 ---
 
-## Simböck IT Beratung
+## SimbÃ¶ck IT Beratung
 
 . Knowhow
 . Erfahrung
-. Lösungen
+. LÃ¶sungen
