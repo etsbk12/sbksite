@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
-title: Somböck IT Beratung
+title: Somboeck IT Beratung
 sass:
         sass_dir: _sass
         style: compressed
