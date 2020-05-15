@@ -1,2 +1,5 @@
 theme: jekyll-theme-architect
 title: Simboeck IT Beratung
+sass:
+  sass_dir: _sass
+  style: compressed
