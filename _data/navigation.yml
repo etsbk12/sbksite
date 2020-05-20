@@ -1,6 +1,6 @@
 - name: Home
-  link: /
+  link: ./
 - name: Referenzen
-  link: /seite2.html
+  link: ./seite2.html
 - name: Kontakt 
-  link: /seite3.html
+  link: ./seite3.html
