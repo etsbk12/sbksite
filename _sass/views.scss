@@ -34,6 +34,7 @@ h1 {
     grid-template-areas:
         "menupart"
         "main"
+        "bottompart"
 }
 
 p {
@@ -43,6 +44,20 @@ p {
 
 #menupart { 
     grid-area: menupart;
+    display: inline-block;
+
+    h1 {
+        font-size: 2em;
+        margin-bottom: 1em;
+
+        a {
+            text-decoration: none;
+        }
+    }
+}
+
+#bottompart { 
+    grid-area: bottompart;
     display: inline-block;
 
     h1 {

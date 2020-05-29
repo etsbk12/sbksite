@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Fortschritt mit System
+title: Simböck IT Beratung / Fortschritt mit System
 ---
 
 ## Seite 2
