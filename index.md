@@ -5,20 +5,14 @@ title: Simböck IT Beratung / Home
 
 ## Simböck IT Beratung
 
-### Java-Erfahrung seit 19 Jahren
+### Java-Erfahrung
+- seit 19 Jahren
+- in J2EE-Projekten 
+- in Web-Projekten 
+- in Swing-Client-Projekten
+- Eclipse-RCP-Projekten
 
-```markdown
-public class Simboeck extends Expert implements Experience<Java>, Experience<SQL> {
-	public static String CONSTANT_WORK = "enjoyed";
-	
-	@Overrides
-	public Solution work(String someProblemDescription) {
-		Knowhow k1 = new DomainDataProvider().learnAndUnderstand();
-		Knowhow k2 = new SimboeckCapabilitiesProvider().load();
-		return SimboeckOperations.solve(someProblemDescription, k1, k2);
-	}
-}
-```
+![SimboeckCode.](assets/images/code.png)
 
 ### Projekt-Erfahrungen seit 23 Jahren
 
