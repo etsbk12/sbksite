@@ -56,22 +56,9 @@ p {
     }
 }
 
-#ganz_unten {
+#bottompart { 
 	position: absolute;
 	bottom: 20px;
-} 
-#bottompart { 
-    grid-area: bottompart;
-    display: inline-block;
-
-    h1 {
-        font-size: 2em;
-        margin-bottom: 1em;
-
-        a {
-            text-decoration: none;
-        }
-    }
 }
 
 
