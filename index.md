@@ -25,5 +25,5 @@ Ich weiß wie Zusammenarbeit funktioniert, wie man gut kleine Teams führen kann
 
 ### Kontakt
 
-![Ktkt.](assets/images/ktkt.jpg)
+![Ktkt.](assets/images/ktkt.png)
 
