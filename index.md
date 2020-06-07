@@ -5,10 +5,10 @@ title: Simböck IT Beratung / Home
 
 ## Simböck IT Beratung
 
-Sie brauchen Hilfe bei der Fehlersuche 
-oder bei Optimierungen, 
-oder sie wollen ein Projekt starten, 
-==> ich helfe gerne und löse Ihre Probleme.
+Sie brauchen Hilfe bei der Fehlersuche oder 
+ :point_left: bei Optimierungen, 
+ :point_left: oder sie wollen ein Projekt starten, 
+ :handshake: ich helfe gerne und löse Ihre Probleme.
 
 ### Java-Erfahrung
 - seit 19 Jahren
