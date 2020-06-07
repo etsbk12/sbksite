@@ -15,3 +15,4 @@ Für mehr Details siehe [Inventur Solution](http://chief-ernie.de/).
 Ich stehen Ihnen dauerhaft Vorort nur in NRW zur Verfügung, wenn es möglich ist ca. 60% der Arbeit Remote zu erledigen gerne auch in ganz Europa.
 
 ![Computer.](assets/images/computersystemdrawing.jpg)
+
