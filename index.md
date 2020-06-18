@@ -21,9 +21,10 @@ Sie brauchen Hilfe bei der **Fehlersuche** oder
 
 ### Projekt-Erfahrungen seit 23 Jahren
 
+Projekt-Erfahrungen in verschieden Projekt in den Branchen Handel, Versicherungen und Automobil.
+Für Details siehe [Referenzen](./seite2.html).
+
 Ich weiß wie Zusammenarbeit funktioniert, wie man gut kleine Teams führen kann. Und ich freue mich gemeinsam Lösungen zu gestalten und zu implementieren. Als sehr hilfteich erachte ich dabei ein agiles Vorgehen und CleanCodeDesign.
 
-### Kontakt
-
-![Ktkt.](assets/images/ktkt.png)
-
+Mein bevorzugtes Arbeitsmittel ist Eclipse. Zum einen wg. der guten Erweiterbarkeit, ggf. auch mit eigenen Plugins. Zum anderen bekommt man kostenlos ein sensationell gutes Tool.
+Für die Appentwicklung kommt jedoch das Android-Studio zum Einsatz.

@@ -1,0 +1,25 @@
+- name: Marktwarenwirtschaft
+  desc: Neugestaltung Disposition, Wareneingang. Erweiterung Bestellwesen, Auftragsmodul, Inventurmodul, Mietmodul
+  mypart: Beratung bei der Konzeptionierung, UI-Gestaltung und Unterstützung bei der Programmierung sowohl im Backend als auch Benutzeroberfläsche, insbesondere bei der Terminberechnung/Feiertagssteuerung sowie bei der Zwischenlagersteuerung und der Bestprice-Ermittlung
+  timeintervall: von 09/2010 - 08/2011, von 04/2012 - 10/2012, ... TODO
+  link: ./
+- name: Kasse
+  desc: SB-Kasse, Anpassung wg. fiskalischer Gesetztesanforderungen, Belegoptimierung
+  mypart: Unterstützung bei der Programmierung
+  timeintervall: von 02/2010 - 07/2010, von 05/2020 - 06/2020
+  link: ./seite2.html
+- name: Inventur- und Bilanzbewertung
+  desc: Neuimplemtierung und Migration von einer Altanwendung, Performance-Optimierung
+  mypart: Beratung und Technischer Aufbau, spezialisierte Systembibliotheken für die Schnittstellenverarbeitung und Datenausgabe, Implementierung verschiedener Abwertungsmodule.
+  timeintervall: von 11/2012 - 02/2014
+  link: ./seite3.html
+- name: Zentrale Disposition
+  desc: Neugestaltung Disposition, Wareneingang. Erweiterung Bestellwesen, Auftragsmodul
+  mypart: Beratung bei der Konzeptionierung und Unterstützung bei der Programmierung, insbesondere bei der Terminberechnung/Feiertagssteuerung
+  timeintervall: von 02/2011 - 07/2011
+  link: ./seite3.html
+- name: Zentrale Dispo-Terminierung
+  desc: Neugestaltung Disposition, Wareneingang. Erweiterung Bestellwesen, Auftragsmodul
+  mypart: Beratung bei der Konzeptionierung und Unterstützung bei der Programmierung, insbesondere bei der Terminberechnung/Feiertagssteuerung
+  timeintervall: von 11/2010 - 07/2011
+  link: ./seite3.html

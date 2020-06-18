@@ -1,5 +1,5 @@
 <div class="menupart">
-  {% for item in site.data.navigation %}
+  {% for item in site.data.menutop %}
     <a href="{{ item.link }}" {% if page.url == item.link %}class="currentmenu"{% endif %}>{{ item.name }}</a>
   {% endfor %}
 </div>
