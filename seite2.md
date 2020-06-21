@@ -8,7 +8,9 @@ title: Simböck IT Beratung / Bisherige Projekte
 {% for project in site.data.projects %}
       
 -   **{{ project.name }}**
+
     Themen: {{ project.desc }}
+
     Mein Anteil: {{ project.mypart }}
 
 {% endfor %}
