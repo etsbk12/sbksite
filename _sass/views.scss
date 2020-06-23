@@ -45,6 +45,7 @@ p {
 #menupart { 
     grid-area: menupart;
     display: inline-block;
+	background-color: rgb(168, 226, 255);
 
     h1 {
         font-size: 2em;
@@ -60,7 +61,7 @@ p {
 	position: absolute;
 	bottom: 20px;
 	background-color: rgb(168, 226, 255);
-	width: 90vh;
+	width: 95vh;
 }
 
 #logoimg { 
