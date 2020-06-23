@@ -10,12 +10,12 @@ Sie brauchen Hilfe bei der **Fehlersuche** oder
  oder sie wollen ein **Projekt** starten, 
  ich helfe gerne und löse Ihre Probleme.
 
-### Java-Erfahrung
+### Java¹-Erfahrung
 - seit 19 Jahren
-- in J2EE-Projekten 
+- in J2EE¹-Projekten 
 - in Web-Projekten 
-- in Swing-Client-Projekten
-- Eclipse-RCP-Projekten
+- in Swing¹-Client-Projekten
+- Eclipse¹-RCP-Projekten
 
 ![SimboeckCode.](assets/images/code.png)
 
