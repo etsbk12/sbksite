@@ -23,18 +23,3 @@
   mypart: Beratung bei der Konzeptionierung, Technische Beratung und Unterstützung bei der Programmierung, insbesondere bei Kalender UI und Backend-Modularisierung.
   timeintervall: von 11/2010 - 07/2011
   link: ./seite3.html
-- name: Softwaretester
-  desc: Neuimplementierung ECU-Tester, mit Vehicle-Overview, Flash- und Coding-Komponente 
-  mypart: Unterstützung bei der Programmierung, insbesondere bei Parallelverarbeung im Vehicle-Overview und Beachtung der Protokoll- und Gateway-Limitierungen.
-  timeintervall: von 10/2006 - 12/2009
-  link: ./seite3.html
-- name: Automatisches Sortwareupdate
-  desc: Neuimplementierung Backend und RCP-UI zur Pflege des Software-Repositories (Verschlüsselung/Lizensierung). Erweitung und Optmimierung automatischer Download.
-  mypart: Programmierung Eclipse-Plugins und Server-Konfiguration des Software-Repositories um per SSH Software strukturiert inkl. Metadaten abzulegen. Parallelisierung und Visualisierung des Downloadprozesses, Verbesserung der Wiederanlauffähigkeit bei Unterbrechung des Downloads, Integritätsprüfung.
-  timeintervall: von 08/2011 - 03/2012
-  link: ./seite3.html
-- name: Inventur-Applikation
-  desc: Neuimplementierung Vaadin-UI zur Pflege der Stammdaten und zur Vorbereitung und Auswertung der Inventur.
-  mypart: Programmierung Vaadin-UI, Drucker-Steuerung per Browser-Print, Implementierung Spring-Backend und Datenbank-Tabellen.
-  timeintervall: von 10/2018 - 06/2019
-  link: ./seite3.html
